@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Syntax and Semantics
+* [Syntax and Semantics](syntax_and_semantics/README.md)
 
